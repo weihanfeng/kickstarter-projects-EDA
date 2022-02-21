@@ -34,7 +34,7 @@ First, we take a look at how the projects in our datasets do when it comes to ac
 
 ![slide2](./assets/Slide2.JPG)
 
-What is the funding a project should set? We take a look at the goals for successful and amd unsuccessful projects
+What is the funding a project should set? We take a look at the goals for successful and unsuccessful projects
 
 ![slide3](./assets/Slide3.JPG)
 
